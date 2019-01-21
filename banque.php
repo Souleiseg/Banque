@@ -16,9 +16,9 @@ $utilisateur=$_SESSION['utilisateur'];
 ////////////////////////////////////////////
 $database_host = 'wargame_db';
 $database_port = '3306';
-$database_dbname = 'e516dc9fdl';
-$database_user = 'e516dc9fdl';
-$database_password = '166d2308dl';
+$database_dbname = 'e516dc9fd1';
+$database_user = 'e516dc9fd1';
+$database_password = '166d2308d1';
 $database_charset = 'UTF8';
 $database_options = [ 
     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
